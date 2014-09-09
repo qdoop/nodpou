@@ -11,5 +11,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/qdoop/nodpou/issues"
+  },
+  "homepage": "https://github.com/qdoop/nodpou"
 }
