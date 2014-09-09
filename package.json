@@ -1,0 +1,15 @@
+{
+  "name": "nodpou",
+  "version": "0.0.14090901",
+  "description": "(nod/pou)In this game the character can be fed, cleaned, exercised, and put to sleep.",
+  "author": "qdoop <qdoop@outlook.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qdoop/nodpou.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
