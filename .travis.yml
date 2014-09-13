@@ -20,7 +20,7 @@ before_script:
     - true
     
 script:
-    - echo -n '_testing____________________________________________'
+    - echo -ne '\nxxxx\n_testing____________________________________________\n'
     - true
     - false
     - npm test
