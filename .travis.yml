@@ -20,6 +20,8 @@ before_script:
     - true
     
 script:
+    - echo '_testing____________________________________________'
+    - true
     - npm test
     
 # after_success or after_failure
