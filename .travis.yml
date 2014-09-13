@@ -4,6 +4,9 @@ node_js:
     - "0.10"
     - "0.8"
     
+    
+env:
+    - TEST0=test0
 
 before_install:
     - true
@@ -14,7 +17,7 @@ install:
     
     
 before_script:
-    -true
+    - true
     
 script:
     - npm test
@@ -22,5 +25,5 @@ script:
 # after_success or after_failure
 
 after_script:
-    -true
+    - true
     
