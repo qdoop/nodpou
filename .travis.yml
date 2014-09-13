@@ -22,6 +22,7 @@ before_script:
 script:
     - echo '_testing____________________________________________'
     - true
+    - false
     - npm test
     
 # after_success or after_failure
