@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/qdoop/nodpou/issues"
   },
-  "homepage": "https://github.com/qdoop/nodpou"
+  "homepage": "https://github.com/qdoop/nodpou",
+  "private": true
 }
